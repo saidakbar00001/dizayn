@@ -1,0 +1,29 @@
+.m{
+    background-color: yellowgreen;
+  text-align: center;
+}
+.m img{
+    width: 200px;
+}
+.s{
+    background-color: rgb(164, 170, 170);
+}
+.kl{
+    background-color: aliceblue;
+}
+.kl img{
+  border-radius: 15px;
+}
+table,tr,td{
+   border: 1px solid black; 
+   border-collapse: collapse;
+   width: 1000px;
+}
+.w{
+    background-color: azure;
+}
+.r{
+    background-color: black;
+    color: aliceblue;
+ text-align: center;
+}
